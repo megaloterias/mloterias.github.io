@@ -1,4 +1,4 @@
-![CDATA[/
+
 
 -----------------------
 
@@ -995,5 +995,4 @@ transition: all .1s ease-in-out;
 #menu input{z-index:4}
 #menu input:checked + label{color: #ffffff}
 #menu input:checked ~ ul{display:block}
-}
-]]>
+
